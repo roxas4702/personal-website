@@ -1,2 +1,2 @@
-# personal-website
-This is my personal website/portfolio, built with HTML &amp; CSS
+# PERSONAL WEBSITE
+This is my personal website/portfolio, built with HTML &amp; CSS.
